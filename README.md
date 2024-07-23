@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://juand-portfolio.netlify.app/](https://juand-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://juand-portfolio.netlify.app/)
 
 - 💬 Ask me about **Backend technologies and mobile development**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rideawayy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rideawayy1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-diego-macias-vargas-50468a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-diego-macias-vargas-50468a225/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-diego-macias-vargas-50468a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-diego-macias-vargas-50468a225" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
