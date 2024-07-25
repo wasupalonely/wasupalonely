@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rideawayy1" target="blank"><img src="https://img.shields.io/twitter/follow/rideawayy1?logo=twitter&style=for-the-badge" alt="rideawayy1" /></a> </p>
 
-- 🔭 I’m currently working on [Reservapp](https://github.com/wasupalonely/reservapp_backend)
+- 🔭 I’m currently working on [Reservapp](https://github.com/wasupalonely/reservapp_backend) and [Recepify](https://github.com/wasupalonely/recepify_backend)
 
 - 🌱 I’m currently learning **Golang, Java (Springboot) and software architecture**
 
